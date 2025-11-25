@@ -1,0 +1,18 @@
+data:
+  cloud_storage: "gcs"
+  bucket: "image-binary-dataset"
+  processed_path: "processed"
+
+train:
+  model: "resnet18"
+  pretrained: true
+  epochs: 5
+  batch_size: 32
+  lr: 0.001
+  seed: 42
+  val_split: 0.2
+  test_split: 0.1
+
+mlflow:
+  tracking_uri: "./mlruns"  # local file-based tracking
+  experiment_name: "catdog-classifier"
