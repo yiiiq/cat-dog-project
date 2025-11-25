@@ -222,7 +222,7 @@ curl -X POST "https://cat-dog-classifier-wvwq66fufa-uc.a.run.app/predict" \
 ```
 
 ### Web Interface
-**URL:** `https://[your-username]-cat-dog-project-[hash].streamlit.app`
+**URL:** `https://cat-dog-project-gzxqu6fvyav7tborqxcp9e.streamlit.app`
 
 **Features:**
 - Drag-and-drop image upload
