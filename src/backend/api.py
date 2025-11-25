@@ -1,3 +1,10 @@
+"""
+FastAPI backend for Cat vs Dog image classification
+
+AI Usage: This code was developed with assistance from GitHub Copilot (AI pair programmer).
+Approximately 50% AI-generated with significant human design, testing, and debugging.
+See AI_USAGE.md for detailed attribution.
+"""
 import os
 import io
 import torch

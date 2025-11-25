@@ -1,3 +1,10 @@
+"""
+Streamlit web interface for Cat vs Dog image classification
+
+AI Usage: This code was primarily generated using GitHub Copilot (AI pair programmer).
+Approximately 90% AI-generated with human specification and testing.
+See AI_USAGE.md for detailed attribution.
+"""
 import streamlit as st
 import requests
 from PIL import Image

@@ -7,7 +7,7 @@ import cv2
 BUCKET_NAME = "image-binary-dataset"
 IMG_SIZE = 128
 SOURCE_DIR = "data/raw/train"
-PROJECT_ID = os.getenv("GCP_PROJECT_ID")  # Optional: set your GCP project ID
+PROJECT_ID = os.getenv("GCP_PROJECT_ID")
 
 def process_and_upload():
     # Initialize storage client with optional project ID
