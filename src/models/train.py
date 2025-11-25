@@ -1,3 +1,10 @@
+"""
+Training script for Cat vs Dog classifier
+
+AI Usage: This code was developed with assistance from GitHub Copilot (AI pair programmer).
+Approximately 50% AI-generated with significant human design, debugging, and optimization.
+See AI_USAGE.md for detailed attribution.
+"""
 import os
 import yaml
 import torch

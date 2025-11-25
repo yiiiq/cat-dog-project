@@ -2,6 +2,8 @@
 
 A complete end-to-end machine learning project that classifies images as cats or dogs, featuring cloud-based training, REST API deployment, and an interactive web interface.
 
+> **AI Usage Declaration:** This project was developed with assistance from AI tools (primarily GitHub Copilot). Approximately 70% of the code was AI-assisted with significant human design, testing, and integration. Core components (training pipeline and API) are 50% AI-assisted. See [AI_CITATION.md](AI_CITATION.md) for detailed attribution.
+
 ## 📋 Project Overview and Goals
 
 This project demonstrates a full ML pipeline including:
